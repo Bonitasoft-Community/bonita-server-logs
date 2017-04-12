@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<applications xmlns="http://documentation.bonitasoft.com/application-xml-schema/1.0">
+    <application token="serverLog" version="1.0" profile="Administrator" homePage="logPage" state="ACTIVATED" layout="custompage_defaultlayout" theme="custompage_bootstrapdefaulttheme">
+        <displayName>Server log app</displayName>
+        <description>Consult server logs</description>
+        <applicationPages>
+            <applicationPage customPage="custompage_ServerLogs" token="logPage"/>
+        </applicationPages>
+        <applicationMenus/>
+    </application>
+</applications>
