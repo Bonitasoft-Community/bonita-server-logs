@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.bonitasoft.rest.api</groupId>
 	<artifactId>logsRestAPI</artifactId>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 
 	<name>Log Rest API</name>
 	<description>Rest API managing server logs</description>
